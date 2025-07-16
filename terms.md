@@ -24,7 +24,13 @@ We may update the App and these Terms at any time, notifying you via the App. Co
 ## 6. Termination
 We may terminate or suspend access to the App for violations of these Terms, security reasons, or at our discretion, potentially resulting in loss of saved preferences, without prior notice.
 
-## 7. Contact
+## 7. YouTube API Services
+
+VirtualFridge uses YouTube API Services to display or play video content. By using our app, you agree to be bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms) and [Google Privacy Policy](https://policies.google.com/privacy).
+
+We do not store or access any personal data from your YouTube account.
+
+## 8. Contact
 For questions, contact us:  
 📧 Email: kamalovdamir2022@gmail.com
 
